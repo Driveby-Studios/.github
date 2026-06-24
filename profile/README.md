@@ -1,6 +1,6 @@
 # Driveby Studios 🚗💨
 
-Welcome to the official GitHub home of **Driveby Studios**. We are a collective of developers and creators focused on building high-performance software, engaging digital experiences, and innovative open-source tools.
+Welcome to the official GitHub home of DriveBy Studios. We are a two-man development team focused on building high-performance software, engaging digital experiences, and innovative open-source tools.
 
 ## 🙋‍♀️ Who We Are
 
