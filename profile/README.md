@@ -1,39 +1,42 @@
-# Driveby Studios 🚗💨
+# DriveBy Studios 🚗💨
 
-Welcome to the official GitHub home of DriveBy Studios. We are a two-man development team focused on building high-performance software, engaging digital experiences, and innovative open-source tools.
+**"Built to Break Reality."**
 
-## 🙋‍♀️ Who We Are
+DriveBy Studios is a two-person engineering team pushing the boundaries of low-level systems programming and high-performance game architecture. We focus on scratch-built technology—from custom physics solvers to proprietary rendering pipelines—designed for maximum performance.
 
-Driveby Studios is dedicated to the "fast-track" of development—hence the name. We believe in rapid iteration, clean architecture, and shipping code that makes a tangible impact. Our work spans across game development, web ecosystems, and developer tooling.
+## ⚙️ Our Core Focus
+* **Systems Architecture:** Engineering high-performance C++20 solutions from the metal up.
+* **Graphics & Physics:** Developing robust, Vulkan-based renderers and industrial-grade physics simulations.
+* **Engine Tooling:** Building open-source infrastructure for the next generation of high-fidelity experiences.
 
-## 🌈 Getting Involved
+## 🚀 Active Projects
 
-The community is at the heart of what we do. Whether you're a seasoned developer or just starting out, we'd love your input:
+| Project | Type | Focus |
+| :--- | :--- | :--- |
+| **[CiPhyxs](https://github.com/DriveBy-Studios/CiPhyxs)** | Physics Engine | Industrial-grade performance, SAT, Voronoi fracture. |
+| **[KineticSync](https://github.com/DriveBy-Studios/KineticSync)** | Networking | Engine-agnostic, high-performance C++20 framework. |
 
-- **Contribute Code:** Look for the `help wanted` or `good first issue` labels in our repositories.
-- **Share Ideas:** Join our discussions or open a feature request if you have a vision for one of our projects.
-- **Report Issues:** Found a bug? Let us know so we can fix it!
+*Note: While our core engine, **CarnageEngine**, is an internal proprietary project, we are committed to open-sourcing our core middleware.*
 
-*Please check the `CONTRIBUTING.md` file within individual repositories for specific workflows.*
+## 🛠️ Tech Stack & Philosophy
+We favor **Modern C++20** and **Vulkan** for their ability to provide direct hardware control. Our development philosophy is "Drive-by Development": **Identify, Architect, Execute.**
 
-## 👩‍💻 Resources
+* **Languages:** C++20, C, Rust, C#, Java.
+* **Infrastructure:** Vulkan API, SIMD-accelerated logic, Task-graph scheduling.
+* **Workflow:** Automated CI/CD, strictly documented APIs, and high-performance threading.
 
-- 🛠️ **Tech Stack:** We primarily develop using **HTML/CSS/JavaScript**, **C-family languages (C, C++, C#)**, and **Java**.
-- 💬 **Contact:** Reach out to us via our GitHub Discussions
-
-## 🍿 Fun Facts
-
-- ☕ Our team's official fuel source is a mix of high-intensity espresso and dark chocolate.
-- 🏎️ The "Driveby" name originated from our philosophy of "Drive-by Development"—the ability to jump into a problem, fix it elegantly, and keep moving forward.
-- 🎮 We host monthly internal game jams to keep our creative juices flowing.
+## 🤝 Contributing
+We invite collaboration on our open-source tools:
+- **Code Reviews:** Check our [CiPhyxs repository](https://github.com/DriveBy-Studios/CiPhyxs) for ongoing development tasks.
+- **Standards:** All contributions must align with our C++20/Vulkan performance standards.
+- **Reporting:** Please use the standard GitHub Issues template for bug reports.
 
 ---
 
-### 🧙 Stay Connected
-
+### 🧙 Connect With The Team
 > "The best way to predict the future is to create it."
 
-**Follow us on GitHub** to stay up to date with our latest releases and projects!
----
+* **Organization Discussions:** [Join the conversation](https://github.com/orgs/DriveBy-Studios/discussions)
 
-*Built with ❤️ by the Driveby Studios team.*
+---
+*Built for the future. DriveBy Studios © 2026*
