@@ -1,0 +1,8 @@
+# DriveBy Studios CODEOWNERS
+
+# Global owner for all repositories
+*       @QuantumByte
+
+# Optional: Specific owners for specific directories (example)
+# /physics/   @QuantumByte
+# /renderer/  @QuantumByte
