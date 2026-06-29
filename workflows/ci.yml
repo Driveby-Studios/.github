@@ -1,0 +1,6 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  call-reusable-ci:
+    uses: DriveBy-Studios/.github/.github/workflows/reusable-cpp-ci.yml@main
